@@ -1,0 +1,143 @@
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+}
+
+.login-container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    position: relative;
+}
+
+.login-header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.login-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.login-subtitle {
+    font-size: 14px;
+    color: #666;
+}
+
+.login-signup-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login-form {
+    margin-top: 20px;
+}
+
+.login-field {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.login-label {
+    display: block;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.login-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #262626;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.login-button:hover {
+    background-color: #000000;
+}
+
+.login-alternative {
+    margin-top: 20px;
+}
+
+.login-or {
+    display: block;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.login-alt-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.login-alt-button {
+    background-color: #262626;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.login-alt-button:hover {
+    background-color: #333;
+}
+
+.login-icon {
+    margin-right: 8px;
+}
+
+.login-header-links {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-link {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.yellow {
+    color: #f1c40f;
+}
+
+.login-separator {
+    color: #333;
+}

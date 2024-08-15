@@ -1,0 +1,106 @@
+.admin-login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+}
+
+.admin-login-container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    position: relative;
+}
+
+.admin-login-header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.admin-login-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.admin-login-subtitle {
+    font-size: 14px;
+    color: #666;
+}
+
+.admin-login-form {
+    margin-top: 20px;
+}
+
+.admin-login-field {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.admin-login-label {
+    display: block;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.admin-login-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.admin-login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #262626;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.admin-login-button:hover {
+    background-color: #000000;
+}
+
+.admin-forgot-password-link {
+    display: block;
+    margin-top: 15px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login-header-links {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-link {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.yellow {
+    color: #f1c40f;
+}
+
+.login-separator {
+    color: #333;
+}

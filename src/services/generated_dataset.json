@@ -1,0 +1,744 @@
+{
+  "Departments": {
+    "Savings": [
+      {
+        "Brand Name": "Bank of America",
+        "Current Price": "$31.28",
+        "Predicted Price": "$53.88",
+        "Current Profit": "$6339.62",
+        "Predicted Profit": "$12295.01"
+      },
+      {
+        "Brand Name": "Chase",
+        "Current Price": "$49.89",
+        "Predicted Price": "$30.23",
+        "Current Profit": "$9516.84",
+        "Predicted Profit": "$15126.59"
+      },
+      {
+        "Brand Name": "Wells Fargo",
+        "Current Price": "$23.84",
+        "Predicted Price": "$54.17",
+        "Current Profit": "$12002.23",
+        "Predicted Profit": "$16709.56"
+      },
+      {
+        "Brand Name": "Citibank",
+        "Current Price": "$46.28",
+        "Predicted Price": "$25.77",
+        "Current Profit": "$14555.75",
+        "Predicted Profit": "$16730.37"
+      },
+      {
+        "Brand Name": "PNC",
+        "Current Price": "$45.03",
+        "Predicted Price": "$25.44",
+        "Current Profit": "$10677.22",
+        "Predicted Profit": "$16369.14"
+      }
+    ],
+    "Grocery": [
+      {
+        "Brand Name": "Nestle",
+        "Current Price": "$49.13",
+        "Predicted Price": "$47.64",
+        "Current Profit": "$6097.32",
+        "Predicted Profit": "$9682.79"
+      },
+      {
+        "Brand Name": "Kellogg's",
+        "Current Price": "$14.50",
+        "Predicted Price": "$54.04",
+        "Current Profit": "$5691.70",
+        "Predicted Profit": "$9730.24"
+      },
+      {
+        "Brand Name": "PepsiCo",
+        "Current Price": "$22.53",
+        "Predicted Price": "$50.47",
+        "Current Profit": "$13161.92",
+        "Predicted Profit": "$15844.00"
+      },
+      {
+        "Brand Name": "Coca-Cola",
+        "Current Price": "$50.23",
+        "Predicted Price": "$44.73",
+        "Current Profit": "$12861.88",
+        "Predicted Profit": "$18499.55"
+      },
+      {
+        "Brand Name": "General Mills",
+        "Current Price": "$17.06",
+        "Predicted Price": "$42.40",
+        "Current Profit": "$12183.09",
+        "Predicted Profit": "$18020.29"
+      }
+    ],
+    "Back To School": [
+      {
+        "Brand Name": "Crayola",
+        "Current Price": "$40.15",
+        "Predicted Price": "$21.84",
+        "Current Profit": "$12896.48",
+        "Predicted Profit": "$18752.44"
+      },
+      {
+        "Brand Name": "Elmer's",
+        "Current Price": "$36.37",
+        "Predicted Price": "$14.37",
+        "Current Profit": "$9341.51",
+        "Predicted Profit": "$10932.51"
+      },
+      {
+        "Brand Name": "Sharpie",
+        "Current Price": "$37.15",
+        "Predicted Price": "$22.94",
+        "Current Profit": "$10775.86",
+        "Predicted Profit": "$13435.52"
+      },
+      {
+        "Brand Name": "Ticonderoga",
+        "Current Price": "$58.84",
+        "Predicted Price": "$35.38",
+        "Current Profit": "$11601.93",
+        "Predicted Profit": "$15961.14"
+      },
+      {
+        "Brand Name": "Fiskars",
+        "Current Price": "$36.58",
+        "Predicted Price": "$54.72",
+        "Current Profit": "$6761.75",
+        "Predicted Profit": "$10661.74"
+      }
+    ],
+    "Back To College": [
+      {
+        "Brand Name": "Ikea",
+        "Current Price": "$17.00",
+        "Predicted Price": "$41.36",
+        "Current Profit": "$9750.03",
+        "Predicted Profit": "$13121.58"
+      },
+      {
+        "Brand Name": "Target",
+        "Current Price": "$13.62",
+        "Predicted Price": "$32.78",
+        "Current Profit": "$12229.73",
+        "Predicted Profit": "$18159.21"
+      },
+      {
+        "Brand Name": "Walmart",
+        "Current Price": "$26.91",
+        "Predicted Price": "$19.59",
+        "Current Profit": "$5561.80",
+        "Predicted Profit": "$7640.21"
+      },
+      {
+        "Brand Name": "Bed Bath & Beyond",
+        "Current Price": "$36.88",
+        "Predicted Price": "$27.72",
+        "Current Profit": "$14437.30",
+        "Predicted Profit": "$17075.13"
+      },
+      {
+        "Brand Name": "Best Buy",
+        "Current Price": "$15.24",
+        "Predicted Price": "$35.63",
+        "Current Profit": "$6630.52",
+        "Predicted Profit": "$10998.44"
+      }
+    ],
+    "Halloween": [
+      {
+        "Brand Name": "Spirit Halloween",
+        "Current Price": "$18.18",
+        "Predicted Price": "$37.86",
+        "Current Profit": "$13690.73",
+        "Predicted Profit": "$17574.22"
+      },
+      {
+        "Brand Name": "Party City",
+        "Current Price": "$27.57",
+        "Predicted Price": "$45.42",
+        "Current Profit": "$12152.91",
+        "Predicted Profit": "$14750.35"
+      },
+      {
+        "Brand Name": "Target",
+        "Current Price": "$24.54",
+        "Predicted Price": "$29.09",
+        "Current Profit": "$14041.84",
+        "Predicted Profit": "$18567.78"
+      },
+      {
+        "Brand Name": "Walmart",
+        "Current Price": "$12.75",
+        "Predicted Price": "$28.70",
+        "Current Profit": "$6509.96",
+        "Predicted Profit": "$7858.26"
+      },
+      {
+        "Brand Name": "Amazon",
+        "Current Price": "$40.64",
+        "Predicted Price": "$48.98",
+        "Current Profit": "$9781.48",
+        "Predicted Profit": "$12123.49"
+      }
+    ],
+    "Tailgating": [
+      {
+        "Brand Name": "Coleman",
+        "Current Price": "$13.44",
+        "Predicted Price": "$28.64",
+        "Current Profit": "$6975.67",
+        "Predicted Profit": "$8322.81"
+      },
+      {
+        "Brand Name": "Weber",
+        "Current Price": "$35.90",
+        "Predicted Price": "$37.02",
+        "Current Profit": "$13235.40",
+        "Predicted Profit": "$16966.34"
+      },
+      {
+        "Brand Name": "Igloo",
+        "Current Price": "$36.61",
+        "Predicted Price": "$44.58",
+        "Current Profit": "$14406.20",
+        "Predicted Profit": "$19715.75"
+      },
+      {
+        "Brand Name": "YETI",
+        "Current Price": "$14.17",
+        "Predicted Price": "$29.04",
+        "Current Profit": "$11192.45",
+        "Predicted Profit": "$13116.46"
+      },
+      {
+        "Brand Name": "Kingsford",
+        "Current Price": "$35.70",
+        "Predicted Price": "$14.58",
+        "Current Profit": "$6673.85",
+        "Predicted Profit": "$8506.02"
+      }
+    ],
+    "Home Garden Tools": [
+      {
+        "Brand Name": "Black & Decker",
+        "Current Price": "$26.59",
+        "Predicted Price": "$40.74",
+        "Current Profit": "$8554.32",
+        "Predicted Profit": "$14317.29"
+      },
+      {
+        "Brand Name": "DeWalt",
+        "Current Price": "$22.32",
+        "Predicted Price": "$25.45",
+        "Current Profit": "$10115.72",
+        "Predicted Profit": "$15966.74"
+      },
+      {
+        "Brand Name": "Ryobi",
+        "Current Price": "$55.09",
+        "Predicted Price": "$33.07",
+        "Current Profit": "$8189.04",
+        "Predicted Profit": "$14132.00"
+      },
+      {
+        "Brand Name": "Bosch",
+        "Current Price": "$51.13",
+        "Predicted Price": "$36.09",
+        "Current Profit": "$8997.53",
+        "Predicted Profit": "$14331.97"
+      },
+      {
+        "Brand Name": "Makita",
+        "Current Price": "$58.46",
+        "Predicted Price": "$46.84",
+        "Current Profit": "$7644.78",
+        "Predicted Profit": "$9045.27"
+      }
+    ],
+    "Electronics Video Games": [
+      {
+        "Brand Name": "Samsung",
+        "Current Price": "$18.87",
+        "Predicted Price": "$15.71",
+        "Current Profit": "$13891.92",
+        "Predicted Profit": "$15637.53"
+      },
+      {
+        "Brand Name": "Apple",
+        "Current Price": "$26.97",
+        "Predicted Price": "$47.17",
+        "Current Profit": "$7022.04",
+        "Predicted Profit": "$9258.08"
+      },
+      {
+        "Brand Name": "Sony",
+        "Current Price": "$51.56",
+        "Predicted Price": "$21.21",
+        "Current Profit": "$14424.81",
+        "Predicted Profit": "$20108.93"
+      },
+      {
+        "Brand Name": "Microsoft",
+        "Current Price": "$53.65",
+        "Predicted Price": "$54.91",
+        "Current Profit": "$13673.92",
+        "Predicted Profit": "$15297.18"
+      },
+      {
+        "Brand Name": "Nintendo",
+        "Current Price": "$28.56",
+        "Predicted Price": "$57.34",
+        "Current Profit": "$8172.56",
+        "Predicted Profit": "$11015.23"
+      }
+    ],
+    "Clothing Shoes Accessories": [
+      {
+        "Brand Name": "Nike",
+        "Current Price": "$16.62",
+        "Predicted Price": "$59.58",
+        "Current Profit": "$7732.89",
+        "Predicted Profit": "$12026.49"
+      },
+      {
+        "Brand Name": "Adidas",
+        "Current Price": "$11.14",
+        "Predicted Price": "$57.86",
+        "Current Profit": "$5005.11",
+        "Predicted Profit": "$10960.84"
+      },
+      {
+        "Brand Name": "Levi's",
+        "Current Price": "$23.25",
+        "Predicted Price": "$15.12",
+        "Current Profit": "$6284.66",
+        "Predicted Profit": "$12014.87"
+      },
+      {
+        "Brand Name": "H&M",
+        "Current Price": "$43.72",
+        "Predicted Price": "$19.73",
+        "Current Profit": "$6983.25",
+        "Predicted Profit": "$12346.02"
+      },
+      {
+        "Brand Name": "Zara",
+        "Current Price": "$49.89",
+        "Predicted Price": "$47.62",
+        "Current Profit": "$11889.65",
+        "Predicted Profit": "$13257.21"
+      }
+    ],
+    "Toys Kids Baby": [
+      {
+        "Brand Name": "LEGO",
+        "Current Price": "$14.42",
+        "Predicted Price": "$20.02",
+        "Current Profit": "$8951.62",
+        "Predicted Profit": "$12589.06"
+      },
+      {
+        "Brand Name": "Mattel",
+        "Current Price": "$43.31",
+        "Predicted Price": "$41.05",
+        "Current Profit": "$13645.74",
+        "Predicted Profit": "$15344.87"
+      },
+      {
+        "Brand Name": "Hasbro",
+        "Current Price": "$13.92",
+        "Predicted Price": "$23.23",
+        "Current Profit": "$11741.38",
+        "Predicted Profit": "$15946.41"
+      },
+      {
+        "Brand Name": "Fisher-Price",
+        "Current Price": "$21.14",
+        "Predicted Price": "$28.17",
+        "Current Profit": "$12943.88",
+        "Predicted Profit": "$18577.69"
+      },
+      {
+        "Brand Name": "Nerf",
+        "Current Price": "$45.19",
+        "Predicted Price": "$32.18",
+        "Current Profit": "$5369.65",
+        "Predicted Profit": "$9792.64"
+      }
+    ],
+    "Beauty": [
+      {
+        "Brand Name": "L'Oreal",
+        "Current Price": "$38.83",
+        "Predicted Price": "$13.02",
+        "Current Profit": "$14801.46",
+        "Predicted Profit": "$17681.90"
+      },
+      {
+        "Brand Name": "Maybelline",
+        "Current Price": "$57.23",
+        "Predicted Price": "$10.19",
+        "Current Profit": "$14648.94",
+        "Predicted Profit": "$18711.95"
+      },
+      {
+        "Brand Name": "Revlon",
+        "Current Price": "$35.23",
+        "Predicted Price": "$31.83",
+        "Current Profit": "$7740.28",
+        "Predicted Profit": "$12499.52"
+      },
+      {
+        "Brand Name": "CoverGirl",
+        "Current Price": "$27.75",
+        "Predicted Price": "$40.36",
+        "Current Profit": "$6130.70",
+        "Predicted Profit": "$11532.19"
+      },
+      {
+        "Brand Name": "Neutrogena",
+        "Current Price": "$54.01",
+        "Predicted Price": "$18.50",
+        "Current Profit": "$13388.27",
+        "Predicted Profit": "$17609.52"
+      }
+    ],
+    "Personal Care": [
+      {
+        "Brand Name": "Colgate",
+        "Current Price": "$46.37",
+        "Predicted Price": "$28.46",
+        "Current Profit": "$11174.81",
+        "Predicted Profit": "$15225.90"
+      },
+      {
+        "Brand Name": "Oral-B",
+        "Current Price": "$13.49",
+        "Predicted Price": "$39.56",
+        "Current Profit": "$11791.81",
+        "Predicted Profit": "$15870.81"
+      },
+      {
+        "Brand Name": "Gillette",
+        "Current Price": "$46.24",
+        "Predicted Price": "$32.83",
+        "Current Profit": "$8847.36",
+        "Predicted Profit": "$11395.67"
+      },
+      {
+        "Brand Name": "Schick",
+        "Current Price": "$50.63",
+        "Predicted Price": "$12.50",
+        "Current Profit": "$10965.37",
+        "Predicted Profit": "$15035.03"
+      },
+      {
+        "Brand Name": "Nivea",
+        "Current Price": "$58.18",
+        "Predicted Price": "$27.24",
+        "Current Profit": "$11734.10",
+        "Predicted Profit": "$14138.83"
+      }
+    ],
+    "Pharmacy Health Wellness": [
+      {
+        "Brand Name": "CVS",
+        "Current Price": "$18.47",
+        "Predicted Price": "$26.49",
+        "Current Profit": "$6105.08",
+        "Predicted Profit": "$10251.62"
+      },
+      {
+        "Brand Name": "Walgreens",
+        "Current Price": "$20.43",
+        "Predicted Price": "$17.47",
+        "Current Profit": "$8636.81",
+        "Predicted Profit": "$11932.31"
+      },
+      {
+        "Brand Name": "Rite Aid",
+        "Current Price": "$40.10",
+        "Predicted Price": "$55.79",
+        "Current Profit": "$6034.37",
+        "Predicted Profit": "$11099.85"
+      },
+      {
+        "Brand Name": "GNC",
+        "Current Price": "$36.80",
+        "Predicted Price": "$50.22",
+        "Current Profit": "$10124.84",
+        "Predicted Profit": "$13840.68"
+      },
+      {
+        "Brand Name": "Vitamin Shoppe",
+        "Current Price": "$32.54",
+        "Predicted Price": "$45.88",
+        "Current Profit": "$9769.23",
+        "Predicted Profit": "$14162.07"
+      }
+    ],
+    "Auto Tires": [
+      {
+        "Brand Name": "Goodyear",
+        "Current Price": "$36.26",
+        "Predicted Price": "$35.63",
+        "Current Profit": "$11251.13",
+        "Predicted Profit": "$16461.67"
+      },
+      {
+        "Brand Name": "Michelin",
+        "Current Price": "$12.45",
+        "Predicted Price": "$33.98",
+        "Current Profit": "$7226.30",
+        "Predicted Profit": "$11554.14"
+      },
+      {
+        "Brand Name": "Bridgestone",
+        "Current Price": "$22.25",
+        "Predicted Price": "$52.79",
+        "Current Profit": "$11612.35",
+        "Predicted Profit": "$16275.01"
+      },
+      {
+        "Brand Name": "Firestone",
+        "Current Price": "$45.58",
+        "Predicted Price": "$10.89",
+        "Current Profit": "$12463.40",
+        "Predicted Profit": "$14971.74"
+      },
+      {
+        "Brand Name": "Pirelli",
+        "Current Price": "$51.89",
+        "Predicted Price": "$34.53",
+        "Current Profit": "$10604.05",
+        "Predicted Profit": "$12834.09"
+      }
+    ],
+    "Household Essentials": [
+      {
+        "Brand Name": "Procter & Gamble",
+        "Current Price": "$12.77",
+        "Predicted Price": "$49.79",
+        "Current Profit": "$9770.02",
+        "Predicted Profit": "$13425.85"
+      },
+      {
+        "Brand Name": "Unilever",
+        "Current Price": "$35.31",
+        "Predicted Price": "$12.90",
+        "Current Profit": "$12007.89",
+        "Predicted Profit": "$16126.99"
+      },
+      {
+        "Brand Name": "Clorox",
+        "Current Price": "$45.25",
+        "Predicted Price": "$13.64",
+        "Current Profit": "$7624.15",
+        "Predicted Profit": "$9304.71"
+      },
+      {
+        "Brand Name": "Reckitt Benckiser",
+        "Current Price": "$20.30",
+        "Predicted Price": "$24.98",
+        "Current Profit": "$14679.92",
+        "Predicted Profit": "$18272.34"
+      },
+      {
+        "Brand Name": "Johnson & Johnson",
+        "Current Price": "$53.07",
+        "Predicted Price": "$10.32",
+        "Current Profit": "$8492.62",
+        "Predicted Profit": "$10892.57"
+      }
+    ],
+    "Pets": [
+      {
+        "Brand Name": "Purina",
+        "Current Price": "$12.72",
+        "Predicted Price": "$41.09",
+        "Current Profit": "$5638.99",
+        "Predicted Profit": "$10891.60"
+      },
+      {
+        "Brand Name": "Pedigree",
+        "Current Price": "$32.32",
+        "Predicted Price": "$15.27",
+        "Current Profit": "$14866.24",
+        "Predicted Profit": "$20560.41"
+      },
+      {
+        "Brand Name": "Whiskas",
+        "Current Price": "$16.77",
+        "Predicted Price": "$13.30",
+        "Current Profit": "$11185.94",
+        "Predicted Profit": "$13428.42"
+      },
+      {
+        "Brand Name": "Iams",
+        "Current Price": "$19.09",
+        "Predicted Price": "$18.41",
+        "Current Profit": "$5179.37",
+        "Predicted Profit": "$8235.20"
+      },
+      {
+        "Brand Name": "Blue Buffalo",
+        "Current Price": "$19.59",
+        "Predicted Price": "$14.03",
+        "Current Profit": "$12093.17",
+        "Predicted Profit": "$15870.28"
+      }
+    ],
+    "Sports Outdoors": [
+      {
+        "Brand Name": "Adidas",
+        "Current Price": "$24.29",
+        "Predicted Price": "$29.60",
+        "Current Profit": "$13524.73",
+        "Predicted Profit": "$16734.41"
+      },
+      {
+        "Brand Name": "Nike",
+        "Current Price": "$26.78",
+        "Predicted Price": "$57.13",
+        "Current Profit": "$11293.85",
+        "Predicted Profit": "$13228.11"
+      },
+      {
+        "Brand Name": "Under Armour",
+        "Current Price": "$35.25",
+        "Predicted Price": "$35.23",
+        "Current Profit": "$8875.84",
+        "Predicted Profit": "$12159.70"
+      },
+      {
+        "Brand Name": "Columbia",
+        "Current Price": "$27.57",
+        "Predicted Price": "$19.19",
+        "Current Profit": "$8997.71",
+        "Predicted Profit": "$13899.42"
+      },
+      {
+        "Brand Name": "The North Face",
+        "Current Price": "$14.17",
+        "Predicted Price": "$33.12",
+        "Current Profit": "$8270.37",
+        "Predicted Profit": "$11737.10"
+      }
+    ],
+    "School Office Art Supplies": [
+      {
+        "Brand Name": "Crayola",
+        "Current Price": "$50.38",
+        "Predicted Price": "$14.71",
+        "Current Profit": "$14550.55",
+        "Predicted Profit": "$19688.16"
+      },
+      {
+        "Brand Name": "Elmer's",
+        "Current Price": "$26.95",
+        "Predicted Price": "$12.71",
+        "Current Profit": "$8963.32",
+        "Predicted Profit": "$13453.31"
+      },
+      {
+        "Brand Name": "Sharpie",
+        "Current Price": "$49.71",
+        "Predicted Price": "$19.51",
+        "Current Profit": "$13421.18",
+        "Predicted Profit": "$14754.23"
+      },
+      {
+        "Brand Name": "Post-it",
+        "Current Price": "$47.26",
+        "Predicted Price": "$42.91",
+        "Current Profit": "$8301.87",
+        "Predicted Profit": "$13514.22"
+      },
+      {
+        "Brand Name": "3M",
+        "Current Price": "$50.80",
+        "Predicted Price": "$22.40",
+        "Current Profit": "$12726.47",
+        "Predicted Profit": "$15434.41"
+      }
+    ],
+    "Seasonal Decor Party Supplies": [
+      {
+        "Brand Name": "Party City",
+        "Current Price": "$57.59",
+        "Predicted Price": "$22.87",
+        "Current Profit": "$14157.53",
+        "Predicted Profit": "$17270.93"
+      },
+      {
+        "Brand Name": "Hallmark",
+        "Current Price": "$15.59",
+        "Predicted Price": "$16.06",
+        "Current Profit": "$13675.27",
+        "Predicted Profit": "$17059.61"
+      },
+      {
+        "Brand Name": "American Greetings",
+        "Current Price": "$55.83",
+        "Predicted Price": "$57.49",
+        "Current Profit": "$13646.58",
+        "Predicted Profit": "$15461.06"
+      },
+      {
+        "Brand Name": "Dollar Tree",
+        "Current Price": "$19.28",
+        "Predicted Price": "$35.51",
+        "Current Profit": "$5073.18",
+        "Predicted Profit": "$8348.31"
+      },
+      {
+        "Brand Name": "Oriental Trading",
+        "Current Price": "$50.94",
+        "Predicted Price": "$47.93",
+        "Current Profit": "$9730.01",
+        "Predicted Profit": "$14078.01"
+      }
+    ],
+    "Movies Music Books": [
+      {
+        "Brand Name": "Sony",
+        "Current Price": "$29.83",
+        "Predicted Price": "$43.16",
+        "Current Profit": "$7824.05",
+        "Predicted Profit": "$10373.62"
+      },
+      {
+        "Brand Name": "Universal",
+        "Current Price": "$41.20",
+        "Predicted Price": "$16.21",
+        "Current Profit": "$6536.69",
+        "Predicted Profit": "$9603.93"
+      },
+      {
+        "Brand Name": "Warner Bros",
+        "Current Price": "$28.32",
+        "Predicted Price": "$21.29",
+        "Current Profit": "$9278.34",
+        "Predicted Profit": "$13619.80"
+      },
+      {
+        "Brand Name": "Paramount",
+        "Current Price": "$27.50",
+        "Predicted Price": "$41.73",
+        "Current Profit": "$8560.20",
+        "Predicted Profit": "$10537.09"
+      },
+      {
+        "Brand Name": "Lionsgate",
+        "Current Price": "$41.83",
+        "Predicted Price": "$24.66",
+        "Current Profit": "$6949.70",
+        "Predicted Profit": "$11167.86"
+      }
+    ]
+  }
+}

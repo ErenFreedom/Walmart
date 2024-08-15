@@ -1,0 +1,5002 @@
+[
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2813704555.37",
+    "Predicted Profit": "$2599857798.96"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$685552160.47",
+    "Predicted Profit": "$2133810171.91"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1337723771.06",
+    "Predicted Profit": "$3898342623.90"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$590410230.45",
+    "Predicted Profit": "$1197149726.88"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$695275523.50",
+    "Predicted Profit": "$1887278704.37"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2415166203.74",
+    "Predicted Profit": "$2130063480.56"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1888217555.73",
+    "Predicted Profit": "$2109554165.94"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2419249691.25",
+    "Predicted Profit": "$1403819667.37"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2077970489.84",
+    "Predicted Profit": "$3363235404.21"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2125704108.44",
+    "Predicted Profit": "$2026439507.34"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2293207516.27",
+    "Predicted Profit": "$2280674102.99"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$768007047.11",
+    "Predicted Profit": "$1781865906.49"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1259746649.97",
+    "Predicted Profit": "$2844267469.99"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2503958952.26",
+    "Predicted Profit": "$2902177874.13"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2860160740.41",
+    "Predicted Profit": "$3747619940.03"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2697810926.32",
+    "Predicted Profit": "$1034929316.19"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$812054045.05",
+    "Predicted Profit": "$2802822409.86"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1810634841.38",
+    "Predicted Profit": "$3819656587.75"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$832291126.17",
+    "Predicted Profit": "$1389389500.86"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1275667880.04",
+    "Predicted Profit": "$2271836656.55"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2297142601.30",
+    "Predicted Profit": "$2555874754.04"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1924469442.43",
+    "Predicted Profit": "$1415692384.66"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$639999050.29",
+    "Predicted Profit": "$1644765830.12"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2842035209.81",
+    "Predicted Profit": "$1640555147.58"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2833511067.24",
+    "Predicted Profit": "$1532786667.60"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2643102931.52",
+    "Predicted Profit": "$2261127772.41"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1074468044.35",
+    "Predicted Profit": "$2269641947.15"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$900412982.17",
+    "Predicted Profit": "$2966985895.43"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2782869121.90",
+    "Predicted Profit": "$2306681123.87"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1715394234.91",
+    "Predicted Profit": "$2998380492.88"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2409259270.75",
+    "Predicted Profit": "$1523886096.23"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1738766051.65",
+    "Predicted Profit": "$1229082291.33"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1170401580.84",
+    "Predicted Profit": "$2947073818.10"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1823665818.63",
+    "Predicted Profit": "$2765155686.44"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2958104423.47",
+    "Predicted Profit": "$2582145979.84"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2441215159.81",
+    "Predicted Profit": "$2736549582.15"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$991614221.63",
+    "Predicted Profit": "$2678221342.57"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$845843527.82",
+    "Predicted Profit": "$3592679990.90"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$655261229.24",
+    "Predicted Profit": "$2915222118.14"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$685149126.90",
+    "Predicted Profit": "$3699783434.58"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2047902602.13",
+    "Predicted Profit": "$2976804821.20"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1444190166.03",
+    "Predicted Profit": "$2571647290.85"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$843786554.26",
+    "Predicted Profit": "$3935720045.08"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2658967584.52",
+    "Predicted Profit": "$2541682936.97"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2596861354.70",
+    "Predicted Profit": "$1546946701.61"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2625955492.11",
+    "Predicted Profit": "$1249021748.97"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2565986977.98",
+    "Predicted Profit": "$1265980037.82"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2226624461.52",
+    "Predicted Profit": "$3076488458.41"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2883078421.16",
+    "Predicted Profit": "$1206726298.86"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2179590213.51",
+    "Predicted Profit": "$2153008050.70"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1986517139.18",
+    "Predicted Profit": "$2345764617.94"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1131542250.76",
+    "Predicted Profit": "$1046367024.81"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2592137617.82",
+    "Predicted Profit": "$1460650310.54"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1849412098.13",
+    "Predicted Profit": "$3712496684.86"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$712600495.09",
+    "Predicted Profit": "$3876664407.45"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2989066147.25",
+    "Predicted Profit": "$2448117518.92"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2467847091.42",
+    "Predicted Profit": "$1873654603.37"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1365330514.58",
+    "Predicted Profit": "$1283802385.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1110554696.87",
+    "Predicted Profit": "$3593934797.05"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2569218891.88",
+    "Predicted Profit": "$1095245847.99"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1001981176.74",
+    "Predicted Profit": "$3185137459.08"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2096547646.50",
+    "Predicted Profit": "$1241427945.08"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1903275034.22",
+    "Predicted Profit": "$2799857550.31"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1908583291.18",
+    "Predicted Profit": "$2546985475.24"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1567930136.70",
+    "Predicted Profit": "$1642159547.07"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2666726141.62",
+    "Predicted Profit": "$1940671754.74"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2267197856.77",
+    "Predicted Profit": "$1731958380.36"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1892117561.85",
+    "Predicted Profit": "$2115994326.16"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1870905306.44",
+    "Predicted Profit": "$3140898415.25"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1493652622.13",
+    "Predicted Profit": "$3258215157.84"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2498110719.72",
+    "Predicted Profit": "$3404508207.52"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1908790861.74",
+    "Predicted Profit": "$1000402016.34"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2779130655.63",
+    "Predicted Profit": "$3466956200.56"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$911758874.06",
+    "Predicted Profit": "$1395727650.24"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1031720614.98",
+    "Predicted Profit": "$3384718147.95"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2448680760.49",
+    "Predicted Profit": "$2459512495.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1470182800.86",
+    "Predicted Profit": "$3835537943.65"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2504372889.38",
+    "Predicted Profit": "$1257102776.76"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2750843811.93",
+    "Predicted Profit": "$2029597759.02"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$935461625.92",
+    "Predicted Profit": "$1834954341.91"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1066028976.58",
+    "Predicted Profit": "$2753712445.82"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2686218721.84",
+    "Predicted Profit": "$2234629310.29"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$903469333.77",
+    "Predicted Profit": "$2049893923.98"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1242384578.19",
+    "Predicted Profit": "$2911166853.34"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1918103209.63",
+    "Predicted Profit": "$3672277652.54"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$558478034.80",
+    "Predicted Profit": "$2380232897.95"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2787384074.65",
+    "Predicted Profit": "$2041987492.83"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2799940858.38",
+    "Predicted Profit": "$3513672438.55"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1103717473.49",
+    "Predicted Profit": "$3236938552.85"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2848424450.51",
+    "Predicted Profit": "$1073873753.58"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$515998681.62",
+    "Predicted Profit": "$3611632606.30"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2163860644.27",
+    "Predicted Profit": "$3488595370.12"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2203540855.56",
+    "Predicted Profit": "$1735787617.27"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1039471374.35",
+    "Predicted Profit": "$1015312274.76"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2689732741.42",
+    "Predicted Profit": "$1595247277.85"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2493867012.54",
+    "Predicted Profit": "$3841934947.45"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$860992372.49",
+    "Predicted Profit": "$1090893353.92"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$504882889.40",
+    "Predicted Profit": "$1347242401.86"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$768359705.29",
+    "Predicted Profit": "$3304175038.86"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$726462394.52",
+    "Predicted Profit": "$3654054769.10"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1535643860.27",
+    "Predicted Profit": "$2399258489.18"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1976960773.77",
+    "Predicted Profit": "$2546189312.69"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2039615897.16",
+    "Predicted Profit": "$3301579267.69"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1338598187.87",
+    "Predicted Profit": "$1305534475.17"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2731792059.74",
+    "Predicted Profit": "$3093907753.01"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$758257346.38",
+    "Predicted Profit": "$1458704419.67"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2815993095.34",
+    "Predicted Profit": "$3260796021.75"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1114511768.25",
+    "Predicted Profit": "$2924510320.54"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$695609712.24",
+    "Predicted Profit": "$3262051273.48"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1730401159.26",
+    "Predicted Profit": "$3083308878.09"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1062002553.74",
+    "Predicted Profit": "$3923268636.79"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$539772584.63",
+    "Predicted Profit": "$3321897814.11"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$758220911.65",
+    "Predicted Profit": "$3354981237.46"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$903666498.35",
+    "Predicted Profit": "$3500761184.27"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2877345478.59",
+    "Predicted Profit": "$1467515804.41"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2806171248.94",
+    "Predicted Profit": "$2218024848.43"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2357287379.63",
+    "Predicted Profit": "$2093323750.07"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1861422305.29",
+    "Predicted Profit": "$2333386738.76"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2198103178.40",
+    "Predicted Profit": "$1340645604.53"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2940494723.21",
+    "Predicted Profit": "$1113116151.48"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1839238730.91",
+    "Predicted Profit": "$2515396146.57"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1790348708.16",
+    "Predicted Profit": "$1242310763.98"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2074114176.72",
+    "Predicted Profit": "$3079860244.21"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2417538456.96",
+    "Predicted Profit": "$3847868263.32"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2040798997.06",
+    "Predicted Profit": "$3570664393.58"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$530502059.51",
+    "Predicted Profit": "$1128370255.51"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1139803739.27",
+    "Predicted Profit": "$2786014704.53"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2984363693.26",
+    "Predicted Profit": "$3491259569.35"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2646975546.48",
+    "Predicted Profit": "$3733260612.65"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1552906804.11",
+    "Predicted Profit": "$1431599920.57"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1304624367.47",
+    "Predicted Profit": "$2567472875.29"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1148513971.14",
+    "Predicted Profit": "$1161660105.18"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$778433075.01",
+    "Predicted Profit": "$1776720315.04"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2019066223.80",
+    "Predicted Profit": "$1207583135.61"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1325488532.71",
+    "Predicted Profit": "$2218159402.34"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2899012687.33",
+    "Predicted Profit": "$2387771191.21"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$591644663.21",
+    "Predicted Profit": "$3802881017.37"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1887244668.90",
+    "Predicted Profit": "$2707083689.12"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2228099210.30",
+    "Predicted Profit": "$1382746525.79"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1580843518.69",
+    "Predicted Profit": "$2026825297.93"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2148368004.58",
+    "Predicted Profit": "$1124867821.14"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$950769202.79",
+    "Predicted Profit": "$1155363549.38"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2406983640.34",
+    "Predicted Profit": "$1261901122.44"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$691815386.84",
+    "Predicted Profit": "$3541928831.88"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2439780859.19",
+    "Predicted Profit": "$3424079536.61"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$768884637.48",
+    "Predicted Profit": "$2667865956.25"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2670977586.30",
+    "Predicted Profit": "$2928265430.44"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2197835195.80",
+    "Predicted Profit": "$2963856733.94"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2415011022.19",
+    "Predicted Profit": "$3060135622.64"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1485490793.77",
+    "Predicted Profit": "$1508720365.18"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2652638364.84",
+    "Predicted Profit": "$3239249274.85"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1484386505.58",
+    "Predicted Profit": "$1649934609.13"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$646482406.09",
+    "Predicted Profit": "$3236300738.36"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1882843722.38",
+    "Predicted Profit": "$2582475286.93"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2900320429.25",
+    "Predicted Profit": "$2817349390.86"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1417433717.51",
+    "Predicted Profit": "$1797533538.46"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1826270325.21",
+    "Predicted Profit": "$2284903016.61"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2091933571.92",
+    "Predicted Profit": "$2554740923.51"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$857195135.34",
+    "Predicted Profit": "$2486803442.41"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1902081547.58",
+    "Predicted Profit": "$3400063968.07"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1265064704.18",
+    "Predicted Profit": "$2669424127.80"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$539063954.56",
+    "Predicted Profit": "$3627551490.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1723329279.53",
+    "Predicted Profit": "$1946223892.23"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1259789045.34",
+    "Predicted Profit": "$1361150150.32"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1288791800.71",
+    "Predicted Profit": "$3084207291.57"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2398017745.90",
+    "Predicted Profit": "$3009543267.71"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$556513319.39",
+    "Predicted Profit": "$2663099401.66"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1420159621.73",
+    "Predicted Profit": "$2850781931.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2360541866.80",
+    "Predicted Profit": "$3107728679.62"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2951263326.13",
+    "Predicted Profit": "$1008675191.40"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2841454412.59",
+    "Predicted Profit": "$1795785430.18"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2806847571.03",
+    "Predicted Profit": "$3631408213.51"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$500984313.89",
+    "Predicted Profit": "$1443589240.36"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2143570896.04",
+    "Predicted Profit": "$1724718204.36"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2143259586.79",
+    "Predicted Profit": "$2171895963.37"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1752063938.91",
+    "Predicted Profit": "$1118850448.31"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1578585830.21",
+    "Predicted Profit": "$3913696306.02"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2785508923.31",
+    "Predicted Profit": "$2893313171.74"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$834108603.51",
+    "Predicted Profit": "$1365209036.55"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2331014469.57",
+    "Predicted Profit": "$3634108842.28"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2898808287.17",
+    "Predicted Profit": "$2885445543.89"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2807774374.40",
+    "Predicted Profit": "$2611260991.37"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$812454606.48",
+    "Predicted Profit": "$3188449093.55"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2962259856.31",
+    "Predicted Profit": "$2382890766.84"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2074060499.96",
+    "Predicted Profit": "$3553105445.95"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$841401242.08",
+    "Predicted Profit": "$1157297326.01"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2096668781.34",
+    "Predicted Profit": "$3078246738.80"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1994716257.46",
+    "Predicted Profit": "$3762096855.91"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2852099277.34",
+    "Predicted Profit": "$3712686610.36"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$653256857.84",
+    "Predicted Profit": "$1153076232.38"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2506748097.88",
+    "Predicted Profit": "$1450146785.18"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1577647991.46",
+    "Predicted Profit": "$2100239974.74"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$642653650.24",
+    "Predicted Profit": "$3149453317.30"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1679388706.14",
+    "Predicted Profit": "$2435196908.69"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2475184341.22",
+    "Predicted Profit": "$3225365940.36"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$948793325.64",
+    "Predicted Profit": "$3536370869.74"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1263400339.80",
+    "Predicted Profit": "$1716806262.49"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2487943440.82",
+    "Predicted Profit": "$1293649922.29"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$765035562.47",
+    "Predicted Profit": "$2920658413.97"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1038063189.54",
+    "Predicted Profit": "$2125692844.10"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2820697753.10",
+    "Predicted Profit": "$2695425423.40"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1945265325.00",
+    "Predicted Profit": "$2133846774.53"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2948106704.62",
+    "Predicted Profit": "$2220810881.32"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2042783342.97",
+    "Predicted Profit": "$1814792966.16"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2133528979.02",
+    "Predicted Profit": "$3368450209.72"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2894302280.07",
+    "Predicted Profit": "$1472474241.45"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1732491920.19",
+    "Predicted Profit": "$2272218243.55"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1825751649.05",
+    "Predicted Profit": "$1523079344.27"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2109625001.04",
+    "Predicted Profit": "$3779277724.37"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2954589795.00",
+    "Predicted Profit": "$2702500812.45"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$916094079.57",
+    "Predicted Profit": "$3460716403.75"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2268873392.29",
+    "Predicted Profit": "$3271240217.67"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2529543014.87",
+    "Predicted Profit": "$2372297078.91"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2044301627.85",
+    "Predicted Profit": "$1395770563.52"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$976468405.43",
+    "Predicted Profit": "$1330249503.57"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$794890808.31",
+    "Predicted Profit": "$3599122581.70"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2867221249.06",
+    "Predicted Profit": "$2526237963.70"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2902120961.33",
+    "Predicted Profit": "$1300131294.73"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1910344933.33",
+    "Predicted Profit": "$3555647596.52"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2828501580.93",
+    "Predicted Profit": "$2918854260.93"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1063506023.36",
+    "Predicted Profit": "$3394371654.20"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1793036490.25",
+    "Predicted Profit": "$2457679131.99"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2380209981.25",
+    "Predicted Profit": "$1165710859.70"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$647443862.04",
+    "Predicted Profit": "$3209373721.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2141531179.49",
+    "Predicted Profit": "$3674770896.00"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2903027071.51",
+    "Predicted Profit": "$1601070331.07"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1674099179.26",
+    "Predicted Profit": "$1608643362.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1086672427.44",
+    "Predicted Profit": "$2549747758.95"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2420645533.59",
+    "Predicted Profit": "$3731533321.60"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2222196836.41",
+    "Predicted Profit": "$1727785124.24"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1691132415.93",
+    "Predicted Profit": "$2514095466.95"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1637163400.27",
+    "Predicted Profit": "$3132993207.47"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1906137807.40",
+    "Predicted Profit": "$1182705461.83"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2687168829.79",
+    "Predicted Profit": "$2279864764.77"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2220677342.08",
+    "Predicted Profit": "$1980818425.68"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2803502032.87",
+    "Predicted Profit": "$2480050475.82"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1406439522.03",
+    "Predicted Profit": "$1426292745.31"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2640480251.92",
+    "Predicted Profit": "$3874904071.91"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1824314888.56",
+    "Predicted Profit": "$3544961725.22"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$927388425.15",
+    "Predicted Profit": "$1982612830.62"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1601485580.50",
+    "Predicted Profit": "$2346465643.39"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2600237400.08",
+    "Predicted Profit": "$3548388127.05"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1044262364.61",
+    "Predicted Profit": "$2123021820.60"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2340389012.21",
+    "Predicted Profit": "$3470332526.44"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1620335170.30",
+    "Predicted Profit": "$3752654911.58"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1619804227.83",
+    "Predicted Profit": "$3375695535.97"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2974545419.22",
+    "Predicted Profit": "$1713273745.70"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1013903852.78",
+    "Predicted Profit": "$3357068016.68"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2014177355.59",
+    "Predicted Profit": "$1523373796.91"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$556279442.60",
+    "Predicted Profit": "$2995506655.19"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1606147317.75",
+    "Predicted Profit": "$2881768079.20"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1704497929.54",
+    "Predicted Profit": "$2272261940.15"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1720205530.06",
+    "Predicted Profit": "$2959593256.70"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1700384546.83",
+    "Predicted Profit": "$1622639207.77"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2421039641.67",
+    "Predicted Profit": "$3369198063.53"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1844540762.75",
+    "Predicted Profit": "$1923268440.04"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2109608157.02",
+    "Predicted Profit": "$3809217409.70"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2459037825.23",
+    "Predicted Profit": "$2010738646.75"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1107721958.35",
+    "Predicted Profit": "$3496018484.77"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$966505737.50",
+    "Predicted Profit": "$3342436283.01"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1619754748.55",
+    "Predicted Profit": "$3206096740.01"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$639436664.79",
+    "Predicted Profit": "$1195629128.57"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1140204289.74",
+    "Predicted Profit": "$3927668904.09"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1359134212.00",
+    "Predicted Profit": "$2622571569.39"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1287890848.63",
+    "Predicted Profit": "$2681932716.14"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1556778778.68",
+    "Predicted Profit": "$3283774644.69"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$663495267.54",
+    "Predicted Profit": "$3666843200.91"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2097951226.20",
+    "Predicted Profit": "$1059699388.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$702454379.02",
+    "Predicted Profit": "$2148669208.23"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1409319976.23",
+    "Predicted Profit": "$2666465257.30"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$897966515.75",
+    "Predicted Profit": "$1911286861.04"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$512575857.65",
+    "Predicted Profit": "$1584393808.53"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2491255188.84",
+    "Predicted Profit": "$3809844337.66"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$912912394.92",
+    "Predicted Profit": "$2005113226.17"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2889067914.75",
+    "Predicted Profit": "$1077224630.79"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2707281285.33",
+    "Predicted Profit": "$1317226275.12"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1480959976.60",
+    "Predicted Profit": "$1514200806.46"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2364265158.88",
+    "Predicted Profit": "$2173451267.08"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2911908586.36",
+    "Predicted Profit": "$3977349208.35"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2760197014.56",
+    "Predicted Profit": "$1723455632.90"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$513728100.26",
+    "Predicted Profit": "$2697141080.16"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$789544121.97",
+    "Predicted Profit": "$1727333776.30"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2752429901.54",
+    "Predicted Profit": "$2881094865.46"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1617478813.45",
+    "Predicted Profit": "$3624053319.63"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$554851411.38",
+    "Predicted Profit": "$3183473134.67"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2740886047.56",
+    "Predicted Profit": "$3179784884.82"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1854148609.72",
+    "Predicted Profit": "$1339171468.41"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2809998798.41",
+    "Predicted Profit": "$2506869922.78"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1719206602.42",
+    "Predicted Profit": "$1142242669.98"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1559444214.15",
+    "Predicted Profit": "$2693553331.89"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2724870198.38",
+    "Predicted Profit": "$3766051512.06"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2423349807.90",
+    "Predicted Profit": "$2707514357.12"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$531449250.99",
+    "Predicted Profit": "$2651500529.40"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1214902071.48",
+    "Predicted Profit": "$1968792242.71"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1525725385.13",
+    "Predicted Profit": "$1766250170.13"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$652516798.26",
+    "Predicted Profit": "$2530427977.18"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2366215610.44",
+    "Predicted Profit": "$3476872837.14"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$704646117.20",
+    "Predicted Profit": "$3516527067.72"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2262662519.40",
+    "Predicted Profit": "$2579412351.17"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1721649804.44",
+    "Predicted Profit": "$2356000108.17"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2475823955.59",
+    "Predicted Profit": "$2634094827.32"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$893832465.82",
+    "Predicted Profit": "$2006197098.17"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$570414026.66",
+    "Predicted Profit": "$3119183828.77"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1228527233.89",
+    "Predicted Profit": "$2613460454.12"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1242965980.50",
+    "Predicted Profit": "$2332494537.10"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1504366883.49",
+    "Predicted Profit": "$2534803642.33"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1259025425.60",
+    "Predicted Profit": "$3484047969.12"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2282597457.33",
+    "Predicted Profit": "$3448496294.02"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1289819438.08",
+    "Predicted Profit": "$2405549080.42"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1811861777.06",
+    "Predicted Profit": "$2381819647.60"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1434380723.16",
+    "Predicted Profit": "$1117190503.89"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1533188878.31",
+    "Predicted Profit": "$3988045588.99"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$515760239.48",
+    "Predicted Profit": "$2613172774.78"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2001802746.27",
+    "Predicted Profit": "$1136384349.12"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1670973093.44",
+    "Predicted Profit": "$2384231362.79"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2263398422.94",
+    "Predicted Profit": "$2048876480.36"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2065126138.75",
+    "Predicted Profit": "$2633861671.24"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$609479703.56",
+    "Predicted Profit": "$2133917026.91"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1211321338.45",
+    "Predicted Profit": "$3055931168.72"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$925975095.02",
+    "Predicted Profit": "$1029816807.40"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1003644181.50",
+    "Predicted Profit": "$2846341711.13"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1017914052.26",
+    "Predicted Profit": "$1044267019.33"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1825282396.85",
+    "Predicted Profit": "$1053143011.85"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$771163347.90",
+    "Predicted Profit": "$2613338567.36"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2340473508.75",
+    "Predicted Profit": "$3879548136.91"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2134374761.31",
+    "Predicted Profit": "$1964792962.80"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2826368773.56",
+    "Predicted Profit": "$1140109727.10"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$836218413.22",
+    "Predicted Profit": "$2489245602.38"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2962692580.57",
+    "Predicted Profit": "$3627870713.46"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2547833682.39",
+    "Predicted Profit": "$1624039937.21"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2366505342.73",
+    "Predicted Profit": "$2399073645.29"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1744198730.31",
+    "Predicted Profit": "$1193553733.36"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$739338234.57",
+    "Predicted Profit": "$2218101391.56"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1030068919.06",
+    "Predicted Profit": "$2987033487.01"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1527158968.12",
+    "Predicted Profit": "$1657886812.34"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1043320434.04",
+    "Predicted Profit": "$1450054323.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$802589891.31",
+    "Predicted Profit": "$1995136140.62"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1314848434.91",
+    "Predicted Profit": "$1734986825.67"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1398504061.68",
+    "Predicted Profit": "$3884101752.99"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1529041134.10",
+    "Predicted Profit": "$2626122363.40"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1207563249.57",
+    "Predicted Profit": "$2722494353.31"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1620482539.53",
+    "Predicted Profit": "$1462167196.63"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2456849214.50",
+    "Predicted Profit": "$2280320379.13"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1176856086.51",
+    "Predicted Profit": "$2498011819.80"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1076260882.78",
+    "Predicted Profit": "$1438221753.72"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2511018791.03",
+    "Predicted Profit": "$3045131654.40"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2512155887.05",
+    "Predicted Profit": "$3805880039.22"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2937223033.81",
+    "Predicted Profit": "$2229343963.34"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2995387390.80",
+    "Predicted Profit": "$1464134647.96"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2043597799.06",
+    "Predicted Profit": "$3444640897.48"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$542799398.88",
+    "Predicted Profit": "$3007595561.23"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2318774675.51",
+    "Predicted Profit": "$1994356958.34"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2675632284.96",
+    "Predicted Profit": "$3879916233.67"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$781240706.73",
+    "Predicted Profit": "$1035922200.31"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1976202592.07",
+    "Predicted Profit": "$2735848251.71"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1786814911.42",
+    "Predicted Profit": "$3288603217.34"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1275106495.65",
+    "Predicted Profit": "$1750004592.61"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2205129372.83",
+    "Predicted Profit": "$3611462044.60"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2944129707.12",
+    "Predicted Profit": "$3743875528.50"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1515091878.76",
+    "Predicted Profit": "$1464069537.40"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$986000096.65",
+    "Predicted Profit": "$2586511055.11"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$735470041.36",
+    "Predicted Profit": "$1810432459.19"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2732415195.31",
+    "Predicted Profit": "$3173178015.13"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1902931371.01",
+    "Predicted Profit": "$3348074759.96"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1649565027.93",
+    "Predicted Profit": "$3188200478.55"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$734357418.77",
+    "Predicted Profit": "$1173364778.15"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2775964023.85",
+    "Predicted Profit": "$3502523449.50"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2306605192.14",
+    "Predicted Profit": "$3498071914.18"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1077356107.70",
+    "Predicted Profit": "$1008742676.32"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1243031348.33",
+    "Predicted Profit": "$3703810430.07"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$783419034.71",
+    "Predicted Profit": "$1685449348.77"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1407949554.65",
+    "Predicted Profit": "$3547107686.80"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2740106786.32",
+    "Predicted Profit": "$1970588485.43"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1571570862.11",
+    "Predicted Profit": "$2973616001.38"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2586787523.89",
+    "Predicted Profit": "$3354328795.18"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1205441231.99",
+    "Predicted Profit": "$1507724892.52"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1316733369.17",
+    "Predicted Profit": "$1043876983.23"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2698515498.87",
+    "Predicted Profit": "$1742668275.59"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1513361427.26",
+    "Predicted Profit": "$1781722123.73"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2191375102.24",
+    "Predicted Profit": "$3640805051.37"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1349286053.19",
+    "Predicted Profit": "$1046983126.58"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2044736310.06",
+    "Predicted Profit": "$3390702353.42"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$669916988.64",
+    "Predicted Profit": "$2751527578.94"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1867316241.18",
+    "Predicted Profit": "$2032352030.37"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1921671028.46",
+    "Predicted Profit": "$3780026889.20"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2403213591.07",
+    "Predicted Profit": "$1875974515.39"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1821378348.93",
+    "Predicted Profit": "$1583497304.67"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1538650424.83",
+    "Predicted Profit": "$1586820305.73"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$649055821.69",
+    "Predicted Profit": "$3946881220.84"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2651033522.06",
+    "Predicted Profit": "$3861309113.65"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$505420268.61",
+    "Predicted Profit": "$3209410694.53"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$943000151.06",
+    "Predicted Profit": "$3454473021.33"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2306466730.10",
+    "Predicted Profit": "$3024608072.60"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2495906422.45",
+    "Predicted Profit": "$1691756929.40"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2574362516.71",
+    "Predicted Profit": "$1518479600.84"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$644194401.05",
+    "Predicted Profit": "$1675477049.98"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2457084384.30",
+    "Predicted Profit": "$3073259249.61"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$841680691.28",
+    "Predicted Profit": "$1308307990.65"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2325049854.72",
+    "Predicted Profit": "$3944157109.36"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2978690078.07",
+    "Predicted Profit": "$1222058577.85"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1409342044.98",
+    "Predicted Profit": "$2989739627.78"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1481395361.42",
+    "Predicted Profit": "$3755390257.02"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$911655388.32",
+    "Predicted Profit": "$2854177575.18"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1616292960.62",
+    "Predicted Profit": "$2605893682.99"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$576178376.35",
+    "Predicted Profit": "$2099956821.19"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1950199783.68",
+    "Predicted Profit": "$1471950958.97"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$686839820.06",
+    "Predicted Profit": "$1057971682.36"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2970488985.69",
+    "Predicted Profit": "$1351226596.51"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2531055252.20",
+    "Predicted Profit": "$2982836455.21"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1471665447.36",
+    "Predicted Profit": "$3791735095.71"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1041756931.20",
+    "Predicted Profit": "$2766578169.48"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2524679748.71",
+    "Predicted Profit": "$1921711799.55"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2759190028.60",
+    "Predicted Profit": "$2210695036.01"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1037665070.20",
+    "Predicted Profit": "$2805807102.56"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$613328781.98",
+    "Predicted Profit": "$2027148406.94"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2638325789.91",
+    "Predicted Profit": "$3890655097.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$954732661.49",
+    "Predicted Profit": "$3383675168.15"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2251901160.14",
+    "Predicted Profit": "$1626095140.59"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$815930099.96",
+    "Predicted Profit": "$1648824099.43"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2997919313.86",
+    "Predicted Profit": "$1999145241.53"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1886574440.32",
+    "Predicted Profit": "$3996170314.27"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1352965576.13",
+    "Predicted Profit": "$1883972178.20"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1746643898.37",
+    "Predicted Profit": "$1031003408.13"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2272412761.76",
+    "Predicted Profit": "$1602027975.39"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$812156641.54",
+    "Predicted Profit": "$1199747971.91"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2688167522.70",
+    "Predicted Profit": "$1890435323.82"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$981644392.79",
+    "Predicted Profit": "$1204691110.21"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1456201200.45",
+    "Predicted Profit": "$1443486144.91"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2183605925.61",
+    "Predicted Profit": "$2484665807.73"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2714554130.05",
+    "Predicted Profit": "$2246660316.33"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$733828065.53",
+    "Predicted Profit": "$3146272577.62"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2668848812.93",
+    "Predicted Profit": "$2516691848.87"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$912448475.53",
+    "Predicted Profit": "$2890771156.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$701134515.34",
+    "Predicted Profit": "$3788446542.49"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2145603578.79",
+    "Predicted Profit": "$1625879012.45"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1595501547.61",
+    "Predicted Profit": "$2066378011.15"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2510155882.75",
+    "Predicted Profit": "$2643203179.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2207169478.93",
+    "Predicted Profit": "$3785031575.24"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2585376207.39",
+    "Predicted Profit": "$3938774166.89"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2388961260.41",
+    "Predicted Profit": "$3435161069.68"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$668252596.05",
+    "Predicted Profit": "$1928005055.41"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$513911726.29",
+    "Predicted Profit": "$1324025283.96"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1204214362.22",
+    "Predicted Profit": "$2137521614.83"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2025052617.84",
+    "Predicted Profit": "$1563636943.42"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2945086331.44",
+    "Predicted Profit": "$2566711750.89"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1079015100.48",
+    "Predicted Profit": "$1324647329.15"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2905906793.54",
+    "Predicted Profit": "$3815912774.25"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2018729763.32",
+    "Predicted Profit": "$2141369889.76"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1024377792.46",
+    "Predicted Profit": "$3197477427.49"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$756695634.79",
+    "Predicted Profit": "$3193136422.62"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2516467921.42",
+    "Predicted Profit": "$1920001954.47"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$586157888.50",
+    "Predicted Profit": "$2454268227.15"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$692945704.85",
+    "Predicted Profit": "$3139977494.02"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$988419627.88",
+    "Predicted Profit": "$2133818451.53"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1763059788.12",
+    "Predicted Profit": "$2872938923.87"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2481927400.52",
+    "Predicted Profit": "$3324866120.73"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1187221373.80",
+    "Predicted Profit": "$2826951900.73"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1593321793.06",
+    "Predicted Profit": "$1835434575.85"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2412847260.84",
+    "Predicted Profit": "$2834788532.21"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2513709726.50",
+    "Predicted Profit": "$1970359093.01"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1857110512.27",
+    "Predicted Profit": "$1381358579.90"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2638274655.62",
+    "Predicted Profit": "$2613016853.90"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$778440776.76",
+    "Predicted Profit": "$1753869502.75"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2138476572.64",
+    "Predicted Profit": "$2505728135.81"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1289811554.02",
+    "Predicted Profit": "$1951334161.47"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2993752445.96",
+    "Predicted Profit": "$1496102457.69"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2922796302.79",
+    "Predicted Profit": "$2938261869.17"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1322161332.97",
+    "Predicted Profit": "$1688951689.06"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1451441284.01",
+    "Predicted Profit": "$2501047848.31"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2361687123.04",
+    "Predicted Profit": "$1066072330.39"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1058868728.42",
+    "Predicted Profit": "$3313711712.98"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2079774883.00",
+    "Predicted Profit": "$1631777680.46"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$763941554.28",
+    "Predicted Profit": "$2788457173.08"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$974632656.46",
+    "Predicted Profit": "$3371058244.77"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2397472255.66",
+    "Predicted Profit": "$1330386591.59"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2335737301.77",
+    "Predicted Profit": "$2109397471.30"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2787674482.86",
+    "Predicted Profit": "$3443673598.55"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1108359775.60",
+    "Predicted Profit": "$1137218338.47"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1714357091.47",
+    "Predicted Profit": "$3713370731.70"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2531287056.40",
+    "Predicted Profit": "$2488850548.95"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2666884267.55",
+    "Predicted Profit": "$2582980711.35"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$873881419.66",
+    "Predicted Profit": "$1868903917.01"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2356143220.53",
+    "Predicted Profit": "$3866369854.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1840942675.33",
+    "Predicted Profit": "$3878551586.06"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1066877121.26",
+    "Predicted Profit": "$2034814540.18"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1836289534.01",
+    "Predicted Profit": "$1737958010.37"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$667266570.96",
+    "Predicted Profit": "$2346972576.20"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1501376389.98",
+    "Predicted Profit": "$2609201414.94"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$831663139.57",
+    "Predicted Profit": "$2571717578.79"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$991424905.58",
+    "Predicted Profit": "$1323474930.68"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2850649429.26",
+    "Predicted Profit": "$2379344997.33"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1182741774.85",
+    "Predicted Profit": "$1890404337.40"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2273571834.22",
+    "Predicted Profit": "$2490451392.95"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$666874136.08",
+    "Predicted Profit": "$3814356149.29"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1489454192.55",
+    "Predicted Profit": "$1937981415.81"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1462380652.00",
+    "Predicted Profit": "$1325665294.55"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2523194314.31",
+    "Predicted Profit": "$1310391412.96"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1964675834.36",
+    "Predicted Profit": "$2707724093.17"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1944813063.38",
+    "Predicted Profit": "$2271134702.48"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1679343019.21",
+    "Predicted Profit": "$3181865566.22"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2101150070.77",
+    "Predicted Profit": "$2172879146.68"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1391321141.19",
+    "Predicted Profit": "$2212756114.46"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1952502527.80",
+    "Predicted Profit": "$3623606565.93"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2209028623.62",
+    "Predicted Profit": "$2657132856.77"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2928361658.86",
+    "Predicted Profit": "$3604498194.35"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2727483113.85",
+    "Predicted Profit": "$2231364525.96"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$693483307.57",
+    "Predicted Profit": "$3551866021.92"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1386165650.42",
+    "Predicted Profit": "$3038637156.56"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1942020083.08",
+    "Predicted Profit": "$2264195132.70"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1230861040.14",
+    "Predicted Profit": "$3087460072.43"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1118233724.02",
+    "Predicted Profit": "$1209579812.26"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2187900526.15",
+    "Predicted Profit": "$1568484427.70"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1686947503.59",
+    "Predicted Profit": "$1443136772.81"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2282649427.83",
+    "Predicted Profit": "$2517701421.08"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2507282478.44",
+    "Predicted Profit": "$1741150264.28"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$948260566.33",
+    "Predicted Profit": "$2666914314.96"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1247609969.84",
+    "Predicted Profit": "$1790386854.26"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1274447818.23",
+    "Predicted Profit": "$1459739046.49"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2303420309.82",
+    "Predicted Profit": "$3680268650.34"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2043842452.15",
+    "Predicted Profit": "$2160567812.31"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2464506532.33",
+    "Predicted Profit": "$2153046634.07"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1081077437.73",
+    "Predicted Profit": "$3676341049.16"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2584584118.36",
+    "Predicted Profit": "$1453764698.08"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1165144608.28",
+    "Predicted Profit": "$2651706749.77"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1221098024.62",
+    "Predicted Profit": "$1361219545.88"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2676259979.52",
+    "Predicted Profit": "$3033883752.02"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2628032774.09",
+    "Predicted Profit": "$1746704476.38"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2375371854.88",
+    "Predicted Profit": "$3370578703.50"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1956182435.49",
+    "Predicted Profit": "$3168260324.76"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1953059418.33",
+    "Predicted Profit": "$1245075501.03"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1949786778.45",
+    "Predicted Profit": "$1062103151.63"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1761095028.23",
+    "Predicted Profit": "$1773553409.23"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1141922936.28",
+    "Predicted Profit": "$2286196386.58"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2671710268.73",
+    "Predicted Profit": "$3634720952.08"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2264852120.44",
+    "Predicted Profit": "$1246355244.78"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1314053786.59",
+    "Predicted Profit": "$3417533506.72"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2181046701.53",
+    "Predicted Profit": "$2599040599.27"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2709956196.99",
+    "Predicted Profit": "$1557526112.83"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$822818363.38",
+    "Predicted Profit": "$3316023868.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$648099530.24",
+    "Predicted Profit": "$2548799429.30"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2513258508.19",
+    "Predicted Profit": "$2564175687.73"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$942958312.36",
+    "Predicted Profit": "$1852825684.87"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1732726448.98",
+    "Predicted Profit": "$3862229873.36"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$872949723.80",
+    "Predicted Profit": "$1792450149.61"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2812222850.37",
+    "Predicted Profit": "$3709730299.05"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1288872768.77",
+    "Predicted Profit": "$1820204359.95"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1463501160.96",
+    "Predicted Profit": "$3888981750.38"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1765770379.88",
+    "Predicted Profit": "$3528902551.87"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2133255844.22",
+    "Predicted Profit": "$3043229639.18"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$634748839.43",
+    "Predicted Profit": "$1256018045.39"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2181409498.08",
+    "Predicted Profit": "$2319710483.00"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2930578143.21",
+    "Predicted Profit": "$3588269242.56"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1616436203.95",
+    "Predicted Profit": "$3513576340.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2962097731.67",
+    "Predicted Profit": "$2694389348.53"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2222103904.96",
+    "Predicted Profit": "$1523687780.20"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2628291200.37",
+    "Predicted Profit": "$1232473589.34"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2614925324.79",
+    "Predicted Profit": "$3462930754.72"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2238447743.98",
+    "Predicted Profit": "$1910277651.82"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2119060145.58",
+    "Predicted Profit": "$1312731870.42"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2389917545.86",
+    "Predicted Profit": "$3390571596.94"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1702846996.45",
+    "Predicted Profit": "$1034049136.70"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1710122903.26",
+    "Predicted Profit": "$3477143880.16"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2765358849.22",
+    "Predicted Profit": "$3478179895.91"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1468886388.07",
+    "Predicted Profit": "$2874593125.00"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2095612039.56",
+    "Predicted Profit": "$2635557222.64"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1590514572.75",
+    "Predicted Profit": "$2244572028.27"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$713979002.82",
+    "Predicted Profit": "$1966820991.25"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1207373993.41",
+    "Predicted Profit": "$3669913152.06"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2550122427.67",
+    "Predicted Profit": "$3386342281.48"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1156777565.84",
+    "Predicted Profit": "$1095346307.61"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1146852458.20",
+    "Predicted Profit": "$3109159170.90"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1846464626.82",
+    "Predicted Profit": "$2181137647.93"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1277574262.85",
+    "Predicted Profit": "$1700616819.86"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$846240902.44",
+    "Predicted Profit": "$2834855786.17"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2612275547.03",
+    "Predicted Profit": "$1384912090.36"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1479521591.29",
+    "Predicted Profit": "$3708959039.18"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2229224525.64",
+    "Predicted Profit": "$3199230462.03"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1597870300.97",
+    "Predicted Profit": "$2428270664.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$728981766.98",
+    "Predicted Profit": "$1653440101.45"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2690758544.41",
+    "Predicted Profit": "$1227948802.03"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1121519341.32",
+    "Predicted Profit": "$1565677416.89"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2332218973.01",
+    "Predicted Profit": "$3200225100.11"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1657742076.59",
+    "Predicted Profit": "$2048316129.70"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1669249659.58",
+    "Predicted Profit": "$3221908393.30"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2354616263.06",
+    "Predicted Profit": "$3378375260.01"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1692078206.56",
+    "Predicted Profit": "$2992764829.41"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1254772846.69",
+    "Predicted Profit": "$2632678689.56"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1160242316.10",
+    "Predicted Profit": "$3593635629.42"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2262908264.50",
+    "Predicted Profit": "$3491694710.01"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2335070456.24",
+    "Predicted Profit": "$1369848990.18"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$939665468.28",
+    "Predicted Profit": "$2591610039.07"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$695735302.80",
+    "Predicted Profit": "$2599115156.46"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1864012158.71",
+    "Predicted Profit": "$1311782434.91"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1624700294.60",
+    "Predicted Profit": "$3103418192.94"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2947022156.53",
+    "Predicted Profit": "$1067279935.77"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2656608740.86",
+    "Predicted Profit": "$1906297152.42"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$505426140.64",
+    "Predicted Profit": "$1511751628.12"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1826458801.36",
+    "Predicted Profit": "$2267295701.45"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$711668085.89",
+    "Predicted Profit": "$3782349446.12"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1472957893.94",
+    "Predicted Profit": "$1454253719.58"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2108632760.23",
+    "Predicted Profit": "$2037915960.68"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1230781671.68",
+    "Predicted Profit": "$3900104931.85"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$719707939.43",
+    "Predicted Profit": "$3613107451.42"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2582640392.96",
+    "Predicted Profit": "$3911471057.37"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1067982789.49",
+    "Predicted Profit": "$1647959337.53"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2647580172.89",
+    "Predicted Profit": "$1957875380.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1553658296.35",
+    "Predicted Profit": "$3204373590.19"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2000572768.58",
+    "Predicted Profit": "$3906263807.49"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1182952756.07",
+    "Predicted Profit": "$1742420258.23"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$906149899.13",
+    "Predicted Profit": "$3570303506.47"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$564867446.62",
+    "Predicted Profit": "$1494059100.08"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1171248273.17",
+    "Predicted Profit": "$1136179891.84"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1711201200.27",
+    "Predicted Profit": "$2290638157.90"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1465560136.24",
+    "Predicted Profit": "$2138279754.48"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1015941530.80",
+    "Predicted Profit": "$1889437876.76"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$541565083.94",
+    "Predicted Profit": "$3431521724.20"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1694785182.61",
+    "Predicted Profit": "$2795136428.55"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2636521643.04",
+    "Predicted Profit": "$2907263343.35"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$969578634.28",
+    "Predicted Profit": "$1773242490.02"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2524688198.09",
+    "Predicted Profit": "$1150627322.55"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2648180741.94",
+    "Predicted Profit": "$3013471360.26"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1877512713.08",
+    "Predicted Profit": "$1277760201.17"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2260291715.64",
+    "Predicted Profit": "$1826339827.28"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2569298687.40",
+    "Predicted Profit": "$1908062197.91"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1844638837.14",
+    "Predicted Profit": "$2470783456.44"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1408033235.58",
+    "Predicted Profit": "$2851508196.74"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1474350883.09",
+    "Predicted Profit": "$1863994936.59"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$814409071.31",
+    "Predicted Profit": "$2112163601.92"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$572871367.09",
+    "Predicted Profit": "$3166421744.17"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1619400420.66",
+    "Predicted Profit": "$3080619752.49"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$900072544.69",
+    "Predicted Profit": "$2089775298.33"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2769830552.46",
+    "Predicted Profit": "$1863510942.58"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1777703303.57",
+    "Predicted Profit": "$1969076284.92"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2285633944.01",
+    "Predicted Profit": "$2995761340.69"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2360545776.56",
+    "Predicted Profit": "$3346535189.10"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1351963318.27",
+    "Predicted Profit": "$1782970989.53"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$847242432.52",
+    "Predicted Profit": "$3845759238.97"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1208372009.21",
+    "Predicted Profit": "$1099693366.44"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2460381972.54",
+    "Predicted Profit": "$3611064825.04"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2634942819.64",
+    "Predicted Profit": "$3583674561.19"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1322309813.59",
+    "Predicted Profit": "$1382765003.94"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1209383956.11",
+    "Predicted Profit": "$3418797992.10"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1603501784.17",
+    "Predicted Profit": "$1625859336.73"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1105927014.83",
+    "Predicted Profit": "$3131870152.24"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2244758103.59",
+    "Predicted Profit": "$1649334160.06"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2937174140.79",
+    "Predicted Profit": "$1794955510.71"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2997654452.85",
+    "Predicted Profit": "$2594495933.61"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2258983237.19",
+    "Predicted Profit": "$3327669133.07"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2716571798.95",
+    "Predicted Profit": "$3781994311.00"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2348132984.52",
+    "Predicted Profit": "$3137091155.65"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1352781949.16",
+    "Predicted Profit": "$1067331608.78"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2200657469.13",
+    "Predicted Profit": "$3955984236.08"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2298884393.89",
+    "Predicted Profit": "$3157640870.91"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2490795312.26",
+    "Predicted Profit": "$1019154261.54"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2296618786.26",
+    "Predicted Profit": "$2011328875.69"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1384529235.83",
+    "Predicted Profit": "$3053752187.45"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2666473023.52",
+    "Predicted Profit": "$3881069760.20"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2676687763.06",
+    "Predicted Profit": "$1723782678.98"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2196035427.74",
+    "Predicted Profit": "$2589363704.02"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2059614516.55",
+    "Predicted Profit": "$2561033404.99"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1498508865.86",
+    "Predicted Profit": "$1820364726.47"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2059444286.30",
+    "Predicted Profit": "$2607874630.80"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1016815996.52",
+    "Predicted Profit": "$3407146575.70"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2626614655.66",
+    "Predicted Profit": "$3453903471.84"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1257060861.96",
+    "Predicted Profit": "$3474869222.37"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$710636232.00",
+    "Predicted Profit": "$1505993735.93"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$510359298.96",
+    "Predicted Profit": "$2474868040.15"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2877542085.24",
+    "Predicted Profit": "$1409294551.45"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1095445023.98",
+    "Predicted Profit": "$1912698855.08"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2336710442.37",
+    "Predicted Profit": "$1913997246.17"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2552184830.00",
+    "Predicted Profit": "$1539882471.97"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2466959222.09",
+    "Predicted Profit": "$2877828600.24"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$699076095.81",
+    "Predicted Profit": "$1628045111.25"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$547896521.53",
+    "Predicted Profit": "$2657826432.99"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2628718770.11",
+    "Predicted Profit": "$2777594341.57"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1595710815.07",
+    "Predicted Profit": "$1996026575.79"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1782400355.88",
+    "Predicted Profit": "$2745610823.35"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2183168282.38",
+    "Predicted Profit": "$2217324510.90"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1759661643.42",
+    "Predicted Profit": "$1175589989.26"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2852850299.35",
+    "Predicted Profit": "$1347670246.81"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2918084850.23",
+    "Predicted Profit": "$2146784332.42"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2443500226.20",
+    "Predicted Profit": "$2709445095.22"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1275367025.54",
+    "Predicted Profit": "$1417146543.54"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1771510626.50",
+    "Predicted Profit": "$2284132938.18"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2093470740.70",
+    "Predicted Profit": "$3109317555.74"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$599362774.38",
+    "Predicted Profit": "$1188942203.12"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2655660821.06",
+    "Predicted Profit": "$3176519805.33"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1365539849.60",
+    "Predicted Profit": "$1581813872.86"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2703274245.46",
+    "Predicted Profit": "$2369597052.95"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1452618055.02",
+    "Predicted Profit": "$2464416782.44"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1993995334.59",
+    "Predicted Profit": "$3244319789.62"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2570698515.94",
+    "Predicted Profit": "$1685140500.16"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2849805341.39",
+    "Predicted Profit": "$3634762071.07"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2969856925.89",
+    "Predicted Profit": "$3850291001.94"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1825387662.11",
+    "Predicted Profit": "$2978819945.31"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1426525392.05",
+    "Predicted Profit": "$3415298513.92"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2647087113.89",
+    "Predicted Profit": "$2874058404.29"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2676463636.64",
+    "Predicted Profit": "$1653708684.94"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$953488034.84",
+    "Predicted Profit": "$3263932626.69"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1557561934.13",
+    "Predicted Profit": "$2034762940.14"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$795489992.63",
+    "Predicted Profit": "$3165529964.66"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2889484689.23",
+    "Predicted Profit": "$2340612588.52"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2284075468.56",
+    "Predicted Profit": "$1773627658.70"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2712291420.76",
+    "Predicted Profit": "$2562306619.41"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2287473418.49",
+    "Predicted Profit": "$1300311050.26"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2246019751.51",
+    "Predicted Profit": "$1350253319.91"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2592043214.91",
+    "Predicted Profit": "$3626883225.71"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$916859515.23",
+    "Predicted Profit": "$1565395538.15"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$533134186.24",
+    "Predicted Profit": "$3266011087.63"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2783338659.36",
+    "Predicted Profit": "$1069617995.47"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1062272138.44",
+    "Predicted Profit": "$1623703602.37"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2750454779.80",
+    "Predicted Profit": "$1073368317.21"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$990616825.36",
+    "Predicted Profit": "$3840822712.23"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$945421357.68",
+    "Predicted Profit": "$3950706994.59"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2337231388.14",
+    "Predicted Profit": "$3791607497.27"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$548421749.96",
+    "Predicted Profit": "$1540335885.91"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$969058719.16",
+    "Predicted Profit": "$2487456953.83"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$711778512.19",
+    "Predicted Profit": "$3894120425.94"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2664490985.73",
+    "Predicted Profit": "$1016699363.60"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2779574835.84",
+    "Predicted Profit": "$1275468799.91"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$707479988.55",
+    "Predicted Profit": "$1261408340.39"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2099399787.62",
+    "Predicted Profit": "$3422674841.01"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2836854170.52",
+    "Predicted Profit": "$3622686457.81"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2933104181.62",
+    "Predicted Profit": "$1888438048.36"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$740891219.78",
+    "Predicted Profit": "$2752532887.40"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1384036477.94",
+    "Predicted Profit": "$1675415902.91"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$790013220.23",
+    "Predicted Profit": "$3219217184.43"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1352595905.08",
+    "Predicted Profit": "$1472281235.75"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2962534319.11",
+    "Predicted Profit": "$3064024847.93"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2239840863.66",
+    "Predicted Profit": "$1668683609.07"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1647649257.80",
+    "Predicted Profit": "$3081272416.78"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2485262193.15",
+    "Predicted Profit": "$2447451910.47"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2020449930.08",
+    "Predicted Profit": "$2425980894.76"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2114476129.67",
+    "Predicted Profit": "$1464889741.06"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$799494941.41",
+    "Predicted Profit": "$1245589299.47"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2845451928.30",
+    "Predicted Profit": "$2886518436.30"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1276983598.64",
+    "Predicted Profit": "$2396566634.88"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2738695172.33",
+    "Predicted Profit": "$1792678965.11"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2635511837.00",
+    "Predicted Profit": "$3642105750.66"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1122484525.22",
+    "Predicted Profit": "$2039134329.03"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1741718730.08",
+    "Predicted Profit": "$2142168791.89"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1058945220.58",
+    "Predicted Profit": "$2787461153.42"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1357229062.97",
+    "Predicted Profit": "$2545663606.06"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2307840711.78",
+    "Predicted Profit": "$3214547545.93"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2231528534.37",
+    "Predicted Profit": "$3748408828.28"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2606538166.47",
+    "Predicted Profit": "$3015986699.58"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1383679614.01",
+    "Predicted Profit": "$2131552495.86"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$818842166.54",
+    "Predicted Profit": "$3427667747.11"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$892901980.10",
+    "Predicted Profit": "$1435422738.92"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1889815014.26",
+    "Predicted Profit": "$2426554475.28"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1312890045.73",
+    "Predicted Profit": "$1911831025.45"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$736235385.40",
+    "Predicted Profit": "$2593251017.14"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$924207001.33",
+    "Predicted Profit": "$3513993231.48"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2126765766.33",
+    "Predicted Profit": "$1554852794.13"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1876571606.19",
+    "Predicted Profit": "$2331501853.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$878443423.84",
+    "Predicted Profit": "$2525003502.81"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2752584568.90",
+    "Predicted Profit": "$1817316706.16"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1393636250.44",
+    "Predicted Profit": "$3991873893.88"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1539917500.39",
+    "Predicted Profit": "$3750651141.41"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1111768189.94",
+    "Predicted Profit": "$2486753707.12"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2584507717.74",
+    "Predicted Profit": "$3014861678.00"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1822614535.86",
+    "Predicted Profit": "$1438448569.73"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1185742009.54",
+    "Predicted Profit": "$2346597844.22"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2100338880.72",
+    "Predicted Profit": "$3293232923.25"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2608784660.62",
+    "Predicted Profit": "$3361164165.41"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1985034663.53",
+    "Predicted Profit": "$3125164121.66"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$624258033.30",
+    "Predicted Profit": "$1760522599.50"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1464405812.56",
+    "Predicted Profit": "$3121696337.56"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2743927727.38",
+    "Predicted Profit": "$1221035349.36"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2264705606.39",
+    "Predicted Profit": "$3992257046.57"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2199091348.26",
+    "Predicted Profit": "$3725751959.00"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1034376772.30",
+    "Predicted Profit": "$1481829110.86"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1821463643.13",
+    "Predicted Profit": "$2136793387.26"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$919993319.05",
+    "Predicted Profit": "$1118979716.26"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1554402061.39",
+    "Predicted Profit": "$2086055623.14"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$987180432.31",
+    "Predicted Profit": "$2849056387.82"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2096380700.38",
+    "Predicted Profit": "$2478086782.46"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2062673989.47",
+    "Predicted Profit": "$1975871930.68"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2482847318.52",
+    "Predicted Profit": "$3615698996.30"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2753702952.22",
+    "Predicted Profit": "$2762988287.15"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$876298852.60",
+    "Predicted Profit": "$2560350463.44"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$916429310.97",
+    "Predicted Profit": "$2933314849.08"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2750352928.91",
+    "Predicted Profit": "$3329091975.63"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$797750867.42",
+    "Predicted Profit": "$1354480136.65"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2208696711.64",
+    "Predicted Profit": "$2740815436.18"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$790613404.09",
+    "Predicted Profit": "$1142813315.16"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1594953335.41",
+    "Predicted Profit": "$1158183347.57"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1820863489.49",
+    "Predicted Profit": "$3731009185.90"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1797303222.68",
+    "Predicted Profit": "$1242785420.74"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1465609334.81",
+    "Predicted Profit": "$3239436153.90"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$898178412.85",
+    "Predicted Profit": "$3797616482.95"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2411116203.73",
+    "Predicted Profit": "$1033538273.50"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1064214553.17",
+    "Predicted Profit": "$2063504657.93"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1602314039.53",
+    "Predicted Profit": "$1382568360.03"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1829027118.53",
+    "Predicted Profit": "$3857608389.54"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1456258699.05",
+    "Predicted Profit": "$3874520242.67"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$733066576.99",
+    "Predicted Profit": "$2687276326.34"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$866200558.03",
+    "Predicted Profit": "$3955555766.35"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2469050011.94",
+    "Predicted Profit": "$1523122570.84"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2234345680.41",
+    "Predicted Profit": "$3474954985.12"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1069234710.32",
+    "Predicted Profit": "$1527631133.01"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1484985326.55",
+    "Predicted Profit": "$3068625440.40"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$539669665.25",
+    "Predicted Profit": "$2849826251.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1112674421.82",
+    "Predicted Profit": "$3125081173.06"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2612096028.20",
+    "Predicted Profit": "$1456202815.41"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1988128592.93",
+    "Predicted Profit": "$2635944723.71"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$575412325.61",
+    "Predicted Profit": "$2772930168.19"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1505121810.67",
+    "Predicted Profit": "$1371510027.24"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1676896760.93",
+    "Predicted Profit": "$3246213396.75"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1526827404.13",
+    "Predicted Profit": "$1962561246.24"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2354541374.11",
+    "Predicted Profit": "$2216444350.18"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2456734613.74",
+    "Predicted Profit": "$1932534443.32"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1268423492.40",
+    "Predicted Profit": "$3770150092.09"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$532289355.79",
+    "Predicted Profit": "$2293444850.37"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$610401814.99",
+    "Predicted Profit": "$3971038938.38"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2373393110.75",
+    "Predicted Profit": "$2799794611.80"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1946516190.30",
+    "Predicted Profit": "$3307597198.24"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2628620310.76",
+    "Predicted Profit": "$2710384805.91"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$941567871.42",
+    "Predicted Profit": "$1392861199.68"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2257697150.80",
+    "Predicted Profit": "$3142106926.28"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1040529608.43",
+    "Predicted Profit": "$1164549417.34"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1532398435.93",
+    "Predicted Profit": "$3478112524.93"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1947222081.25",
+    "Predicted Profit": "$1497592508.04"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2602023972.58",
+    "Predicted Profit": "$2796766948.87"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1681681599.50",
+    "Predicted Profit": "$1737551789.94"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1200380066.70",
+    "Predicted Profit": "$1995352922.85"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2479613608.53",
+    "Predicted Profit": "$2135348913.51"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1495351108.59",
+    "Predicted Profit": "$1263253225.42"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1729549741.88",
+    "Predicted Profit": "$3260852271.07"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2055114161.56",
+    "Predicted Profit": "$2129284549.71"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2752127323.86",
+    "Predicted Profit": "$1170510312.72"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2876096754.27",
+    "Predicted Profit": "$1881979518.40"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1427867336.84",
+    "Predicted Profit": "$1400677305.38"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2916584192.67",
+    "Predicted Profit": "$3541164218.07"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1115925659.97",
+    "Predicted Profit": "$3751391581.12"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2186217602.97",
+    "Predicted Profit": "$1723973340.35"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2966344116.07",
+    "Predicted Profit": "$1221006541.52"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1372472981.66",
+    "Predicted Profit": "$2585768148.90"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2378859914.94",
+    "Predicted Profit": "$1672176750.78"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2782104646.56",
+    "Predicted Profit": "$2255167510.15"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2626400093.79",
+    "Predicted Profit": "$1158855155.09"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$878718073.61",
+    "Predicted Profit": "$1974825722.84"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1592595882.92",
+    "Predicted Profit": "$1670153437.48"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1772848994.24",
+    "Predicted Profit": "$2614957987.94"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1741245905.55",
+    "Predicted Profit": "$2674014546.17"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1799880297.41",
+    "Predicted Profit": "$3713347027.29"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1432855550.77",
+    "Predicted Profit": "$2190823818.45"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2829828751.48",
+    "Predicted Profit": "$1296406382.23"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$588545402.96",
+    "Predicted Profit": "$1389255059.66"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1527657564.29",
+    "Predicted Profit": "$2802128929.29"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1625195573.81",
+    "Predicted Profit": "$2410493817.97"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2272665966.73",
+    "Predicted Profit": "$2204099099.56"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1596393672.89",
+    "Predicted Profit": "$2788483400.14"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1287864136.54",
+    "Predicted Profit": "$2311736157.33"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1012103357.11",
+    "Predicted Profit": "$3074445765.27"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1838884335.13",
+    "Predicted Profit": "$1904887005.52"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1469444091.29",
+    "Predicted Profit": "$2481631798.47"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1189865680.86",
+    "Predicted Profit": "$3597775505.86"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2383832190.61",
+    "Predicted Profit": "$1004230671.64"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2843568839.40",
+    "Predicted Profit": "$2847628535.71"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1540597348.82",
+    "Predicted Profit": "$1369058876.33"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1509886872.82",
+    "Predicted Profit": "$3633688793.08"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$872651379.56",
+    "Predicted Profit": "$1799985687.41"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1580738568.63",
+    "Predicted Profit": "$2551785960.85"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$860562254.97",
+    "Predicted Profit": "$3412242344.33"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$637536716.33",
+    "Predicted Profit": "$1664931229.68"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2568305332.95",
+    "Predicted Profit": "$2448113258.75"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1098450717.80",
+    "Predicted Profit": "$3544088672.05"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1707578339.70",
+    "Predicted Profit": "$1888083404.71"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2452293007.29",
+    "Predicted Profit": "$2296852957.73"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1905370076.60",
+    "Predicted Profit": "$3578013887.89"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1336442787.21",
+    "Predicted Profit": "$1120030975.10"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1988918582.74",
+    "Predicted Profit": "$2406105031.08"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1630205814.53",
+    "Predicted Profit": "$3933440397.95"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$814988100.25",
+    "Predicted Profit": "$3207555694.18"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$563586662.63",
+    "Predicted Profit": "$2150042753.29"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1616328504.54",
+    "Predicted Profit": "$3104449206.36"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1682929781.98",
+    "Predicted Profit": "$2857706136.83"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1420018221.84",
+    "Predicted Profit": "$1434208632.40"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1079952245.28",
+    "Predicted Profit": "$3932870367.72"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1200181190.34",
+    "Predicted Profit": "$1449085742.51"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$914933177.83",
+    "Predicted Profit": "$2520356325.21"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$948111196.24",
+    "Predicted Profit": "$1407809188.89"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1121039137.84",
+    "Predicted Profit": "$2257812415.69"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1529045047.65",
+    "Predicted Profit": "$2549819284.84"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2210781786.07",
+    "Predicted Profit": "$2210498533.28"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1353013490.45",
+    "Predicted Profit": "$1362127476.89"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2836962480.72",
+    "Predicted Profit": "$1490413569.63"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1620865508.83",
+    "Predicted Profit": "$2526989509.55"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$615500680.14",
+    "Predicted Profit": "$3249309053.39"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1766036916.71",
+    "Predicted Profit": "$1197099784.67"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1164299462.10",
+    "Predicted Profit": "$3366020341.20"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2480534281.03",
+    "Predicted Profit": "$3174751915.50"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1466127387.10",
+    "Predicted Profit": "$3360949725.08"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1132700195.65",
+    "Predicted Profit": "$3816084419.60"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1397272328.44",
+    "Predicted Profit": "$1313228951.21"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$590642858.30",
+    "Predicted Profit": "$2167128305.20"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2742432570.89",
+    "Predicted Profit": "$3052181968.06"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2337907157.78",
+    "Predicted Profit": "$3517516661.36"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2925113535.34",
+    "Predicted Profit": "$2684137680.65"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1390418850.88",
+    "Predicted Profit": "$2174076126.11"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$992553581.65",
+    "Predicted Profit": "$1083016990.96"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2327039313.85",
+    "Predicted Profit": "$2064196238.97"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2120184487.11",
+    "Predicted Profit": "$3375410675.91"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2036293122.22",
+    "Predicted Profit": "$1991623918.68"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2777769532.63",
+    "Predicted Profit": "$3978562231.44"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2809205073.10",
+    "Predicted Profit": "$3437683618.14"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2073033558.67",
+    "Predicted Profit": "$3144266860.27"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2267722155.07",
+    "Predicted Profit": "$1735828320.54"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2804352785.78",
+    "Predicted Profit": "$1409257811.70"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2448313365.54",
+    "Predicted Profit": "$3640386713.87"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1599223801.62",
+    "Predicted Profit": "$3561545700.09"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$796710519.08",
+    "Predicted Profit": "$1211440977.60"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$830593416.36",
+    "Predicted Profit": "$2624663815.98"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1330130213.52",
+    "Predicted Profit": "$3226239164.94"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$896877842.70",
+    "Predicted Profit": "$3772883957.31"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2626767934.58",
+    "Predicted Profit": "$2136011041.97"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2047559323.08",
+    "Predicted Profit": "$1012754461.74"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$840058932.69",
+    "Predicted Profit": "$1728651898.72"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2601250473.77",
+    "Predicted Profit": "$2754708292.35"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2648134897.59",
+    "Predicted Profit": "$1176407668.51"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$548487037.98",
+    "Predicted Profit": "$2631593292.59"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1127041484.19",
+    "Predicted Profit": "$2217858459.20"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1936418868.80",
+    "Predicted Profit": "$1413934196.29"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2930519835.20",
+    "Predicted Profit": "$1183272060.83"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$762091510.17",
+    "Predicted Profit": "$1041060443.44"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1368377743.58",
+    "Predicted Profit": "$1728251452.35"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2006799486.04",
+    "Predicted Profit": "$1735524636.92"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2352734850.93",
+    "Predicted Profit": "$2899077617.43"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2234311133.91",
+    "Predicted Profit": "$1991011117.68"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1750796066.82",
+    "Predicted Profit": "$2728136566.98"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1626375628.79",
+    "Predicted Profit": "$2921153760.86"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1779814702.58",
+    "Predicted Profit": "$3946930106.66"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2044772403.95",
+    "Predicted Profit": "$1706023251.61"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1232572224.24",
+    "Predicted Profit": "$1203556604.67"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1415681890.62",
+    "Predicted Profit": "$1229308624.27"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2822680160.61",
+    "Predicted Profit": "$3405785005.51"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2546055225.66",
+    "Predicted Profit": "$2110903811.17"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1646469275.63",
+    "Predicted Profit": "$2764064041.66"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$746754107.00",
+    "Predicted Profit": "$3819557466.12"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1753927856.80",
+    "Predicted Profit": "$1629998545.55"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1894375656.47",
+    "Predicted Profit": "$2267499794.95"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1350933315.66",
+    "Predicted Profit": "$3040267352.08"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2504667436.77",
+    "Predicted Profit": "$3787270720.87"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1712106653.51",
+    "Predicted Profit": "$2198376668.96"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$574026343.42",
+    "Predicted Profit": "$2434300871.85"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2586835596.36",
+    "Predicted Profit": "$3995539370.81"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2619789541.73",
+    "Predicted Profit": "$3272045356.63"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2452955853.00",
+    "Predicted Profit": "$1741339105.06"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1459654490.45",
+    "Predicted Profit": "$2962381262.91"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$2369735994.94",
+    "Predicted Profit": "$2144113923.31"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$737046927.39",
+    "Predicted Profit": "$1264007854.67"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2848163345.13",
+    "Predicted Profit": "$3735348201.86"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$759796970.26",
+    "Predicted Profit": "$3796453516.33"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2908903916.72",
+    "Predicted Profit": "$2576780743.83"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2890418545.76",
+    "Predicted Profit": "$2757746835.75"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2639840795.68",
+    "Predicted Profit": "$3520760653.15"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1939797551.21",
+    "Predicted Profit": "$1164249287.24"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1341086866.26",
+    "Predicted Profit": "$2258845863.89"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$939774015.89",
+    "Predicted Profit": "$2779868566.53"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2038021934.09",
+    "Predicted Profit": "$2136230389.53"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$2274213755.47",
+    "Predicted Profit": "$2360225399.50"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2116193711.49",
+    "Predicted Profit": "$3528121515.66"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1866512517.21",
+    "Predicted Profit": "$1480473755.06"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1787692339.47",
+    "Predicted Profit": "$3321794559.63"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1873220195.93",
+    "Predicted Profit": "$3805505883.65"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2905258231.81",
+    "Predicted Profit": "$1171996762.28"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1335222981.00",
+    "Predicted Profit": "$3314823791.11"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2143776020.79",
+    "Predicted Profit": "$1314337307.94"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2208687034.39",
+    "Predicted Profit": "$2135921214.20"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$788904985.04",
+    "Predicted Profit": "$1270675235.24"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2295413360.57",
+    "Predicted Profit": "$1294413506.05"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$595305244.83",
+    "Predicted Profit": "$3891955196.08"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2991107884.69",
+    "Predicted Profit": "$1597399643.61"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$840069670.50",
+    "Predicted Profit": "$1230345051.23"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1793430895.35",
+    "Predicted Profit": "$1830336849.51"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2493525990.92",
+    "Predicted Profit": "$3239213581.68"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1424339217.57",
+    "Predicted Profit": "$3896968638.44"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2466330364.93",
+    "Predicted Profit": "$3812238385.97"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$795207475.57",
+    "Predicted Profit": "$1068887882.10"
+  },
+  {
+    "Company Name": "Walmart",
+    "Current Profit": "$1172517952.91",
+    "Predicted Profit": "$1445798595.47"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1898687533.28",
+    "Predicted Profit": "$2318165325.04"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2835282815.78",
+    "Predicted Profit": "$1700047227.74"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$1806531571.45",
+    "Predicted Profit": "$2113945329.31"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1667664205.56",
+    "Predicted Profit": "$2182953432.87"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2630906838.69",
+    "Predicted Profit": "$2342583504.50"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1917631056.46",
+    "Predicted Profit": "$2822384159.30"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$1653922782.65",
+    "Predicted Profit": "$1404603358.96"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2093116988.10",
+    "Predicted Profit": "$2742851152.07"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$1770347533.74",
+    "Predicted Profit": "$1677482065.22"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2439972486.29",
+    "Predicted Profit": "$3357087511.08"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2060204850.84",
+    "Predicted Profit": "$1771544638.26"
+  },
+  {
+    "Company Name": "Target",
+    "Current Profit": "$2301614825.00",
+    "Predicted Profit": "$1951207916.74"
+  },
+  {
+    "Company Name": "Best Buy",
+    "Current Profit": "$2117723842.80",
+    "Predicted Profit": "$2330100166.42"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$2047789538.80",
+    "Predicted Profit": "$3160487970.37"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$2197319285.02",
+    "Predicted Profit": "$1951390048.71"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$953233817.21",
+    "Predicted Profit": "$1430132468.01"
+  },
+  {
+    "Company Name": "Amazon",
+    "Current Profit": "$1693735368.57",
+    "Predicted Profit": "$2622763854.52"
+  },
+  {
+    "Company Name": "eBay",
+    "Current Profit": "$516650963.46",
+    "Predicted Profit": "$3908878933.41"
+  },
+  {
+    "Company Name": "Costco",
+    "Current Profit": "$1661687891.50",
+    "Predicted Profit": "$2004010555.62"
+  }
+]
