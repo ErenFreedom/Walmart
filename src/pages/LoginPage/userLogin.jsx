@@ -1,26 +1,35 @@
-import React from 'react';
-import { FaApple, FaGoogle, FaTwitter } from 'react-icons/fa';
-import { Link } from 'react-router-dom';
-import './userLogin.css';
+import React from "react";
+import { FaApple, FaGoogle, FaTwitter } from "react-icons/fa";
+import { Link } from "react-router-dom";
+import "./userLogin.css";
 
 const UserLogin = () => {
   return (
     <div className="login-page">
       <div className="login-container">
         <div className="login-header-links">
-          <Link to="/login" className="login-link yellow">Login as User</Link>
+          <Link to="/login" className="login-link yellow">
+            Login as Associate
+          </Link>
           <span className="login-separator">|</span>
-          <Link to="/admin-login" className="login-link">Login as Admin</Link>
+          <Link to="/admin-login" className="login-link">
+            Login as Admin
+          </Link>
         </div>
         <div className="login-header">
           <h2 className="login-title">Welcome Back</h2>
           <p className="login-subtitle">
-            Don't have an account yet? <a href="/signup" className="login-signup-link">Sign up</a>
+            Don't have an account yet?{" "}
+            <a href="/signup" className="login-signup-link">
+              Sign up
+            </a>
           </p>
         </div>
         <form className="login-form">
           <div className="login-field">
-            <label htmlFor="email" className="login-label">Email Address</label>
+            <label htmlFor="email" className="login-label">
+              Email Address
+            </label>
             <input
               type="email"
               id="email"
@@ -30,7 +39,9 @@ const UserLogin = () => {
             />
           </div>
           <div className="login-field">
-            <label htmlFor="password" className="login-label">Password</label>
+            <label htmlFor="password" className="login-label">
+              Password
+            </label>
             <input
               type="password"
               id="password"
@@ -39,7 +50,9 @@ const UserLogin = () => {
               required
             />
           </div>
-          <button type="submit" className="login-button">Login</button>
+          <button type="submit" className="login-button">
+            Login
+          </button>
         </form>
         <div className="login-alternative">
           <span className="login-or">OR</span>
